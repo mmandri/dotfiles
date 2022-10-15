@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mandri.meryem@gmail.com
+	name = meryem mandri
